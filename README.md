@@ -8,7 +8,10 @@ O primeiro video começa introduzindo sobre o que é javascript e qual a diferen
 ## Vídeo 02 - Curso JavaScript #02JavaScript: como chegamos até aqui?
 O segundo vídeo é apresentado a correlação entre a linguagem Java e Javascript, além da linha temporal desde 1970 até hoje em dia, quem criou o javascript, suas tecnologias e a evolução do ECMAScript.
 ## Vídeo 03- - Curso JavaScript #03 Dando os primeiros passos.
-Esse vídeo é bacana porque mostra  como começar a trabalhar de forma efetiva com javascript, além de dar dicas de como aprender melhor, com anotações, livros e baixar os aplicativos necessários, estudar em conjunto com quem também está aprendendo js. E gostei que ele dá um sermão sobre os esteriótipos da programação, todo mundo que QUISER pode ser um ótimo programador.
+Esse vídeo é bacana porque mostra  como começar a trabalhar de forma efetiva com javascript, além de dar dicas de como aprender melhor, com anotações, livros e baixar os aplicativos necessários, estudar em conjunto com quem também está aprendendo js. E gostei que ele dá um sermão sobre os estereótipos da programação, todo mundo que QUISER pode ser um ótimo programador.
+## Vídeo 04- Curso JavaScript #04 Criando o seu primeiro script.
+Achei ok, pois foram coisas que o professor já havia apresentado e nós fizemos a atividade de dia das mães bem nesse nipe.
+
 
 
 
